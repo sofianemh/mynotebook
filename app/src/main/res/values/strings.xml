@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myblocknote</string>
+    <string name="content_here">content here</string>
+    <string name="enter_a_title_here">enter a title here</string>
+</resources>
