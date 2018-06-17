@@ -1,5 +1,8 @@
 <resources>
-    <string name="app_name">myblocknote</string>
+    <string name="app_name">MyNoteBook</string>
     <string name="content_here">content here</string>
     <string name="enter_a_title_here">enter a title here</string>
+    <string name="mynotebook_v_1_00">MyNoteBook V 1.00</string>
+    <string name="we_are_constatly_changing_and_improving_our_services">We are constatly changing and improving our Services</string>
+    <string name="we_are_constatly_changing_and_improving_our_service">We are constatly changing and improving our service</string>
 </resources>

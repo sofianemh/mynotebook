@@ -40,6 +40,11 @@ public class MainActivity extends AppCompatActivity {
                 /*Intent newNoteActivity = new Intent(this,NoteActivity.class);*/
                 startActivity(new Intent(this, NoteActivity.class));
                 break;
+
+            case R.id.action_main_setting:
+                startActivity(new Intent(this, InfoActivity.class));
+                break;
+
         }
         return true;
     }
